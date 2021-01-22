@@ -1,0 +1,5 @@
+# ignore all svg files
+*.svg
+
+# ignore the __pycache__ folder
+__pycache__
